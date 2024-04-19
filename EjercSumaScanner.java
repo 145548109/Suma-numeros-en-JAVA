@@ -6,7 +6,7 @@ public class EjercSumaScanner{
     public static void main(String[] args) {
 
         System.out.println("CAMBIO BASICO REALIZADO");
-        System.out.println("Biencenido al programa!");
+        System.out.println("Bienvenido al programa!");
 
         Scanner scanner = new Scanner(System.in);
 
